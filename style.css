@@ -8,3 +8,15 @@ nav{
     display: flex;
     gap: 200px;
 }
+#book-button{
+    cursor: pointer;
+    background-color: green;
+}
+#explore-button{
+    cursor: pointer;
+    background-color:green;
+}
+h1{
+    text-align: center;
+    color: brown;
+}
