@@ -1,5 +1,9 @@
 body{
     background-color:wheat;
+    h1{
+    text-align: center;
+    color: brown;
+}
 }
 nav{
     padding: 20px;
