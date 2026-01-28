@@ -20,3 +20,22 @@ h1{
     text-align: center;
     color: brown;
 }
+.header {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    background-color: #2ca6a4;
+    padding: 15px;
+}
+
+.logo {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;   /* makes it round */
+    object-fit: cover;
+}
+
+.header h1 {
+    color: white;
+    margin: 0;
+}
